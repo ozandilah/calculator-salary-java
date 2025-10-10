@@ -1,4 +1,4 @@
-package expressionAndStatments;
+package expressionAndStatments.expression;
 
 public class expertState1 {
     public static void main(String[] args) {

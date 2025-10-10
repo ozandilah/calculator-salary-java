@@ -1,4 +1,4 @@
-package dayThree;
+package dayThree.TernaryOperators;
 
 public class TernaryOperatorExam {
     public static void main(String[] args) {

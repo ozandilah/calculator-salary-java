@@ -1,4 +1,4 @@
-package dayTwo;
+package dayTwo.Conditions;
 
 public class Condition2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dayThree;
+package dayThree.TernaryOperators;
 
 public class TernaryOperator1 {
     public static void main(String[] args) {

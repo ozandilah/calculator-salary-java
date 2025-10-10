@@ -1,4 +1,4 @@
-package dayTwo;
+package dayTwo.logicalOperators;
 
 public class logicalOperatorExercise {
     public static void main(String[] args) {
