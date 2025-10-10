@@ -1,4 +1,4 @@
-package expressionAndStatments;
+package expressionAndStatments.expression;
 
 public class WhiteSpace {
     public static void main(String[] args) {

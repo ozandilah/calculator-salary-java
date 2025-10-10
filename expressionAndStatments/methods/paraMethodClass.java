@@ -1,4 +1,4 @@
-package expressionAndStatments;
+package expressionAndStatments.methods;
 
 public class paraMethodClass {
     public static void main(String[] args) {
